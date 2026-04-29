@@ -71,7 +71,7 @@ def train_models(model_type: str):
 #  SIDEBAR
 # ══════════════════════════════════════════════════════════════════════════════
 with st.sidebar:
-    st.image("[img.icons8.com](https://img.icons8.com/fluency/96/heart-with-pulse.png)", width=72)
+    st.image("[img.icons8.com](https://img.icons8.com/ios/50/heart.png)", width=72)
     st.title("Cardiac Risk AI")
     st.caption("Educational prototype · Not for clinical use")
     st.divider()
